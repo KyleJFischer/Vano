@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vano", "Vano\Vano.csproj", "{764D14DF-E55A-4A3E-AC69-6E14715D79DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764D14DF-E55A-4A3E-AC69-6E14715D79DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764D14DF-E55A-4A3E-AC69-6E14715D79DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764D14DF-E55A-4A3E-AC69-6E14715D79DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764D14DF-E55A-4A3E-AC69-6E14715D79DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5501FFF3-A9A4-44C1-82E6-05B7F027945A}
+	EndGlobalSection
+EndGlobal
